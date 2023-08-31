@@ -70,33 +70,5 @@
     budget: 200000.0,
     budget_spent: 45000.0,
     date_of_contract_sign: "2021-03-13",
-  },
-  {
-    id: 1255,
-    company_name: "Visa",
-    budget: 210000.0,
-    budget_spent: 55000.0,
-    date_of_contract_sign: "2021-03-14",
-  },
-  {
-    id: 1256,
-    company_name: "SpaceX",
-    budget: 220000.0,
-    budget_spent: 65000.0,
-    date_of_contract_sign: "2021-03-15",
-  },
-  {
-    id: 1257,
-    company_name: "Walmart",
-    budget: 230000.0,
-    budget_spent: 75000.0,
-    date_of_contract_sign: "2021-03-16",
-  },
-  {
-    id: 1258,
-    company_name: "LVHM",
-    budget: 240000.0,
-    budget_spent: 85000.0,
-    date_of_contract_sign: "2021-03-17",
-  },
+  }
 ]
