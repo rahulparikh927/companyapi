@@ -2,8 +2,8 @@
   {
     id: 1245,
     company_name: "Tesla",
-    budget: 125000.0,
-    budget_spent: 32000.0,
+    budget: 125000,
+    budget_spent: 32000,
     date_of_contract_sign: "2021-01-04"
   },
   {
