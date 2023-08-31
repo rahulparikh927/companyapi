@@ -1,72 +1,72 @@
 [
-  {
-    id: 1245,
-    company_name: "Tesla",
-    budget: 125000,
-    budget_spent: 32000,
-    date_of_contract_sign: "2021-01-04"
-  },
-  {
-    id: 1246,
-    company_name: "Apple",
-    budget: 130000.0,
-    budget_spent: 42000.0,
-    date_of_contract_sign: "2021-03-05"
-  },
-  {
-    id: 1247,
-    company_name: "Google",
-    budget: 140000.0,
-    budget_spent: 52000.0,
-    date_of_contract_sign: "2021-03-06"
-  },
-  {
-    id: 1248,
-    company_name: "BlackRock",
-    budget: 150000.0,
-    budget_spent: 62000.0,
-    date_of_contract_sign: "2021-03-07"
-  },
-  {
-    id: 1249,
-    company_name: "Microsoft",
-    budget: 160000.0,
-    budget_spent: 72000.0,
-    date_of_contract_sign: "2021-03-08"
-  },
-  {
-    id: 1250,
-    company_name: "Amazon",
-    budget: 170000.0,
-    budget_spent: 82000.0,
-    date_of_contract_sign: "2021-03-09"
-  },
-  {
-    id: 1251,
-    company_name: "NVIDIA",
-    budget: 180000.0,
-    budget_spent: 92000.0,
-    date_of_contract_sign: "2021-03-10"
-  },
-  {
-    id: 1252,
-    company_name: "Facebook",
-    budget: 185000.0,
-    budget_spent: 90000.0,
-    date_of_contract_sign: "2021-01-11"
-  },
-  {
-    id: 1253,
-    company_name: "Meta",
-    budget: 190000.0,
-    budget_spent: 75000.0,
-    date_of_contract_sign: "2021-03-12"
-  },
-  {
-    id: 1254,
-    company_name: "TSMC",
-    budget: 200000.0,
-    budget_spent: 45000.0,
-    date_of_contract_sign: "2021-03-13"
-  }
+   {
+      "id":1245,
+      "company_name":"Tesla",
+      "budget":125000.0,
+      "budget_spent":32000.0,
+      "date_of_contract_sign":"2021-01-04"
+   },
+   {
+      "id":1246,
+      "company_name":"Apple",
+      "budget":130000.0,
+      "budget_spent":42000.0,
+      "date_of_contract_sign":"2021-03-05"
+   },
+   {
+      "id":1247,
+      "company_name":"Google",
+      "budget":140000.0,
+      "budget_spent":52000.0,
+      "date_of_contract_sign":"2021-03-06"
+   },
+   {
+      "id":1248,
+      "company_name":"BlackRock",
+      "budget":150000.0,
+      "budget_spent":62000.0,
+      "date_of_contract_sign":"2021-03-07"
+   },
+   {
+      "id":1249,
+      "company_name":"Microsoft",
+      "budget":160000.0,
+      "budget_spent":72000.0,
+      "date_of_contract_sign":"2021-03-08"
+   },
+   {
+      "id":1250,
+      "company_name":"Amazon",
+      "budget":170000.0,
+      "budget_spent":82000.0,
+      "date_of_contract_sign":"2021-03-09"
+   },
+   {
+      "id":1251,
+      "company_name":"NVIDIA",
+      "budget":180000.0,
+      "budget_spent":92000.0,
+      "date_of_contract_sign":"2021-03-10"
+   },
+   {
+      "id":1252,
+      "company_name":"Facebook",
+      "budget":185000.0,
+      "budget_spent":90000.0,
+      "date_of_contract_sign":"2021-01-11"
+   },
+   {
+      "id":1253,
+      "company_name":"Meta",
+      "budget":190000.0,
+      "budget_spent":75000.0,
+      "date_of_contract_sign":"2021-03-12"
+   },
+   {
+      "id":1254,
+      "company_name":"TSMC",
+      "budget":200000.0,
+      "budget_spent":45000.0,
+      "date_of_contract_sign":"2021-03-13"
+   }
 ]
